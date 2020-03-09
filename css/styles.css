@@ -1,0 +1,33 @@
+img{
+    width: 40%;
+    height: 15%;
+    border-radius: 100px;
+}
+a{
+   text-decoration: none;
+    padding: 20px;
+}
+body{
+    background-color:rgb(252, 245, 245);
+}
+a :hover{
+    color: red ;
+}
+body{
+    background-color: skyblue;
+    border: 2px blue solid;
+    opacity: 1.2;
+    background-image: linear-gradient( red blue yellow);
+}
+a{
+    float: right;
+}
+h2{
+    text-align: center;
+    color:red;
+}
+h2 :hover{
+    color : black;
+}
+
+
